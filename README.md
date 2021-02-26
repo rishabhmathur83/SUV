@@ -8,17 +8,17 @@
 | Width| Height/Weight/Length Comparison | Keyless entry  |
 | 2nd & 3rd Row Merger(bed Type) | Alloys | Followme lights  |
 | Apple Car Play | Connected Apps | Leather Seats  |
-| Navigation | Side cornering Light |   |
-| Non Bucket Mid Row | Terrain Modes |   |
-| 2nd & 3rd Row AC control & mount |  |   |
-| Hill Ascend & Decend | Cooled Glove Compartment |   |
-| Projector Lights  |  |   |
-| Curtain Airbags -6   |  |   |
+| Navigation | Side cornering Light | Rain Sensing Wupers  |
+| Non Bucket Mid Row | Terrain Modes | Automatic Headlamps  |
+| 2nd & 3rd Row AC control & mount | Climate Control | Tyre Pressure Monitoring  |
+| Hill Ascend & Decend | Cooled Glove Compartment |  Electrically foldable Mirrors |
+| Projector Lights  | All 4 Disc Brakes |   |
+| Curtain Airbags -6   | 3rd Row Split |   |
 | Ground Clearance |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
+| AC Cooling effectiveness(2nd & 3rd Row) |  |   |
+| Cruise Control and speed of engagement  |  |   |
+| Reverse Camera |  | Dynamic  |
+| ABS & EBD  |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
