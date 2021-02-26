@@ -14,7 +14,7 @@
 | Hill Ascend & Decend | Cooled Glove Compartment |  Electrically foldable Mirrors |
 | Projector Lights  | All 4 Disc Brakes | 4*4  |
 | Curtain Airbags -6   | 3rd Row Split |   |
-| Ground Clearance |  |   |
+| Ground Clearance | SUV  |   |
 | AC Cooling effectiveness(2nd & 3rd Row) |  |   |
 | Cruise Control and speed of engagement  |  |   |
 | Reverse Camera |  | Dynamic Camera Assist |
