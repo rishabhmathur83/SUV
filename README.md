@@ -12,7 +12,7 @@
 | Non Bucket Mid Row | Terrain Modes | Automatic Headlamps  |
 | 2nd & 3rd Row AC control & mount | Climate Control | Tyre Pressure Monitoring  |
 | Hill Ascend & Decend | Cooled Glove Compartment |  Electrically foldable Mirrors |
-| Projector Lights  | All 4 Disc Brakes |   |
+| Projector Lights  | All 4 Disc Brakes | 4*4  |
 | Curtain Airbags -6   | 3rd Row Split |   |
 | Ground Clearance |  |   |
 | AC Cooling effectiveness(2nd & 3rd Row) |  |   |
