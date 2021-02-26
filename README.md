@@ -7,7 +7,7 @@
 | Engine Power | Ingress/egress|  Push Button |
 | Width| Height/Weight/Length Comparison | Keyless entry  |
 | 2nd & 3rd Row Merger(bed Type) | Alloys | Followme lights  |
-| Apple Car Play | Connected Apps | Leather Seats  |
+| Built-in infotainment System with Apple Car PlayApple Car Play | Connected Apps | Leather Seats  |
 | Navigation | Side cornering Light | Rain Sensing Wupers  |
 | Non Bucket Mid Row | Terrain Modes | Automatic Headlamps  |
 | 2nd & 3rd Row AC control & mount | Climate Control | Tyre Pressure Monitoring  |
