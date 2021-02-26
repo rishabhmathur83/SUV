@@ -14,7 +14,7 @@
 | Hill Ascend & Decend | Cooled Glove Compartment |   |
 | Projector Lights  |  |   |
 | Curtain Airbags -6   |  |   |
-|  |  |   |
+| Ground Clearance |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
