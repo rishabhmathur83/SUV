@@ -17,7 +17,7 @@
 | Ground Clearance |  |   |
 | AC Cooling effectiveness(2nd & 3rd Row) |  |   |
 | Cruise Control and speed of engagement  |  |   |
-| Reverse Camera |  | Dynamic  |
+| Reverse Camera |  | Dynamic Camera Assist |
 | ABS & EBD  |  |   |
 |  |  |   |
 |  |  |   |
